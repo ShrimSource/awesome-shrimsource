@@ -6,7 +6,7 @@ A curated list of agents, templates, tools and projects built with Shrimsource.
 
 ## Framework & Core
 
-- **[Shrimsource](https://github.com/shrimsource/shrimsource)** — The tiny open-source runtime for building agent workflows. It exposes only five core API methods to get from idea to a working AI agent in minutes.
+- **[Shrimsource](https://www.npmjs.com/package/shrimsource)** — The tiny open-source runtime for building agent workflows. It exposes only five core API methods to get from idea to a working AI agent in minutes.
 - **[create-shrimsource](https://www.npmjs.com/package/create-shrimsource)** — The official CLI scaffolding tool. Instantly generate ready-to-use AI agent projects with pre-configured LLM wiring, interactive template selection, and automated environment setup. (`npx create-shrimsource`)
 
 ---
